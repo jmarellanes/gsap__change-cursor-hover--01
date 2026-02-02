@@ -102,7 +102,7 @@ body.custom-cursor-active :is(a, button, input, textarea) {
   z-index: 9999;
 
   &::before {
-    background-image: url("https://cdn.prod.website-files.com/64089b363210b3214e491d5b/646b54780b635b05d485f3f4_view-project.png");
+    background-image: url("../assets/cursor-view-more.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 96%;

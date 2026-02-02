@@ -152,7 +152,7 @@ body.custom-cursor-active :is(a, button, input, textarea) {
 
   img {
     max-inline-size: 360px;
-    opacity: 0.4;
+    opacity: 0.7;
     transform-origin: 90% center;
     transition: all 0.5s cubic-bezier(0.25, 1, 0.3, 1);
   }
@@ -163,7 +163,7 @@ body.custom-cursor-active :is(a, button, input, textarea) {
     translate: -1.75rem 0;
 
     img {
-      opacity: 0.8;
+      opacity: 1;
       scale: 1.2;
     }
   }

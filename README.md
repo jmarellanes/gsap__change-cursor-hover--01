@@ -74,7 +74,7 @@ This project showcases interactive cursor animations using **GSAP** (GreenSock A
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/jmarellanes/gsap__change-cursor-hover--01.git
 cd gsap__change-cursor-hover--01
 ```
 
